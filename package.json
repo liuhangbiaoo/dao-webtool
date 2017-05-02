@@ -1,0 +1,22 @@
+{
+  "name": "dao-webtool",
+  "version": "1.0.0",
+  "description": "web 前端自动化及打包工具",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liuhangbiaoo/dao-webtool.git"
+  },
+  "keywords": [
+    "web"
+  ],
+  "author": "道心",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liuhangbiaoo/dao-webtool/issues"
+  },
+  "homepage": "https://github.com/liuhangbiaoo/dao-webtool#readme"
+}
